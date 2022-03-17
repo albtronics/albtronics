@@ -48,7 +48,10 @@
 
 
 
-<a href="https://www.paypal.com/paypalme/albtronics"> <img align="center" src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png" height="50" width="210" alt="PayPal Logo" /></a>
+<p>
+<a href="https://www.paypal.com/paypalme/albtronics"> <img align="center" src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png" height="50" width="210" alt="PayPal" /></a>
+
+
 
 
 
