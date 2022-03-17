@@ -4,12 +4,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albtronics&label=Profile%20views&color=0e75b6&style=flat" alt="albtronics" /> </p>
 
 - 🔭 I’m currently working as an Intern at [**iRFMW**](http://www.irfmw.com/)
-
 - 🌱 I’m currently learning **Blender, FPGA Programming, Solidworks**
-
 - 💬 Ask me about **PCB Designing, Editing, Ethical Hacking**
-
 - 📫 How to reach me **albinjoseph3@gmail.com**
+
+
+
+### Now Listening to 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ipinjtrkyqiajtjdlzek5g7lgi&cover_image=true&theme=default&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
