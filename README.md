@@ -34,8 +34,8 @@
 
 <br>
 
-<p>&nbsp
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=albtronics&show_icons=true&theme=dark&title_color=d9d9d9&text_color=dfdddd&locale=en" alt="GitHub Stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=albtronics&show_icons=true&theme=dark&title_color=d9d9d9&text_color=dfdddd&locale=en" alt="GitHub Stats" /></p>
+
 
 
 
