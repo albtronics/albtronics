@@ -12,7 +12,9 @@
 
 ### Now Listening to 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ipinjtrkyqiajtjdlzek5g7lgi&cover_image=true&theme=default&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ipinjtrkyqiajtjdlzek5g7lgi&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=0008ff)](https://github.com/kittinan/spotify-github-profile)
 
 
 
