@@ -53,7 +53,7 @@
 
 
 <p>
-<a href="https://github.com/albtronics/UPI/blob/main/UPI.png"> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/UPI-Logo-vector.svg" height="50" width="200"alt="UPI" /></a>
+<a href="https://github.com/albtronics/UPI/blob/main/UPI.png"> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/UPI-Logo-vector.svg" height="50" width="100"alt="UPI" /></a>
 
 <p>
 <a href="https://tinyurl.com/myup>
