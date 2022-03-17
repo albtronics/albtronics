@@ -53,7 +53,10 @@
 
 
 <p>
-<a href="https://www.paypal.com/paypalme/albtronics"> <img align="right" src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png" height="50" width="210" alt="UPI" /></a>
+<a href="https://tinyurl.com/myupi" class="upi-pay1">
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/UPI-Logo-vector.svg" height="50" width="210" alt="UPI"/>
+  </a>
+
 
 
 <br>
