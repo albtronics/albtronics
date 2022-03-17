@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albtronics&label=Profile%20views&color=0e75b6&style=flat" alt="albtronics" /> </p>
 
-- 🔭 I’m currently working as an Intern at <a href="http://www.irfmw.com/"><img src="http://www.irfmw.com/assets/img/logo.png" height="20" width="30"alt="IRFMW" /></a></a>
+- 🔭 I’m currently working as an Intern at  <img src="http://www.irfmw.com/assets/img/logo.png""width="30" >
 - 🌱 I’m currently learning **Blender, FPGA Programming, Solidworks**
 - 💬 Ask me about **PCB Designing, Editing, Ethical Hacking**
 - 📫 How to reach me **albinjoseph3@gmail.com**
