@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Albin Joseph C. R</h1>
-<h3 align="center">An Electronics and Communication Engineering, tech enthusiast student who always loves to try out new things | Delighted in taking responsibility, leadership and helping others | Field of interests include - Arduino | C/C++ | Raspberry Pi | Python | Linux | Adobe Photoshop | Ethical Hacking.</h3>
+<h3 align="center">An Electronics and Communication Engineering, tech enthusiast student who always loves to try out new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albtronics&label=Profile%20views&color=0e75b6&style=flat" alt="albtronics" /> </p>
 
-- 🔭 I’m currently working as an @ Intern [http://www.irfmw.com/](http://www.irfmw.com/)
+- 🔭 I’m currently working as an Intern at [**iRFMW**](http://www.irfmw.com/)
 
 - 🌱 I’m currently learning **Blender, FPGA Programming, Solidworks**
 
@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/albinjosephcr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="albinjosephcr1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/albinjosephcr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albinjosephcr" height="30" width="40" /></a>
+<a href="https://www.researchgate.net/profile/Albin-Joseph-Cr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="____t_h_e___a_l_b_t_r_o_n____/" height="30" width="40" /></a>
 <a href="https://fb.com/albin.joseph.5243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="albin.joseph.5243" height="30" width="40" /></a>
 <a href="https://instagram.com/____t_h_e___a_l_b_t_r_o_n____/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____t_h_e___a_l_b_t_r_o_n____/" height="30" width="40" /></a>
 </p>
