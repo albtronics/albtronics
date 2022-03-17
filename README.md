@@ -40,10 +40,10 @@
 
 
 
-
 <h3 align="left">Support:</h3>
 <p>
-<a href="https://www.buymeacoffee.com/sarathithikkatt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="albtronics" /></a>
+<a href="https://www.buymeacoffee.com/albtronics"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy_me_a_Coffee" /></a>
+
 
 
 
@@ -52,12 +52,9 @@
 <a href="https://www.paypal.com/paypalme/albtronics"> <img align="center" src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png" height="50" width="210" alt="PayPal" /></a>
 
 
+<p>
+<a href="https://www.paypal.com/paypalme/albtronics"> <img align="right" src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png" height="50" width="210" alt="UPI" /></a>
 
 
-
-
-
-<a href="https://tinyurl.com/myupi" class="upi-pay1">
-<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/UPI-Logo-vector.svg" height="50" width="210" alt="UPI"/></a></p>
 <br>
 <br>
