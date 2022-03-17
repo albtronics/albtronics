@@ -53,7 +53,10 @@
 
 
 <p>
-<a href="https://tinyurl.com/myupi" class="upi-pay1">
+<a href="https://www.paypal.com/paypalme/albtronics"> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/UPI-Logo-vector.svg" height="50" width="210" alt="UPI" /></a>
+
+<p>
+<a href="https://tinyurl.com/myup>
 <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/UPI-Logo-vector.svg" height="50" width="210" alt="UPI"/>
   </a>
 
