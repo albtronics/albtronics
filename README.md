@@ -43,15 +43,12 @@
 
 <h3 align="left">Support:</h3>
 <p>
-  <a href="https://www.buymeacoffee.com/sarathithikkatt"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="albtronics" /></a>
-<br> 
-<br>     
-  <a href="https://www.paypal.com/paypalme/albtronics"> <img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png" height="50" width="210" alt="PayPal Logo" /></a>
-<br>
-<br>    
+<a href="https://www.buymeacoffee.com/sarathithikkatt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="albtronics" /></a>
+   
+<a href="https://www.paypal.com/paypalme/albtronics"> <img align="center" src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png" height="50" width="210" alt="PayPal Logo" /></a>
+  
 <a href="https://tinyurl.com/myupi" class="upi-pay1">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/UPI-Logo-vector.svg" height="50" width="210" alt="UPI"/>
-  </a>
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/UPI-Logo-vector.svg" height="50" width="210" alt="UPI"/></a>
 
 
 
