@@ -50,10 +50,10 @@
 
 <p>
 <a href="https://www.paypal.com/paypalme/albtronics"> <img align="center" src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png" height="50" width="210" alt="PayPal" /></a>
-
+<br>
 
 <p>
-<a href="https://github.com/albtronics/UPI/blob/main/UPI.png"> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/UPI-Logo-vector.svg" height="50" width="210"alt="UPI" /></a>
+<a href="https://github.com/albtronics/UPI/blob/main/UPI.png"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/UPI-Logo-vector.svg" height="50" width="210"alt="UPI" /></a>
 
 
 
