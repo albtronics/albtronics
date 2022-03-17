@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albtronics&label=Profile%20views&color=0e75b6&style=flat" alt="albtronics" /> </p>
 
-- 🔭 I’m currently working as an Intern at  <img src="http://www.irfmw.com/assets/img/logo.png" width="80">
+- 🔭 I’m currently working as an Intern at  [<img src="http://www.irfmw.com/assets/img/logo.png" width="80">](http://www.irfmw.com/)
 
   
 
