@@ -60,7 +60,7 @@
 <br>
 
 <p>
-<a href="https://github.com/albtronics/UPI/blob/main/UPI.png"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/UPI-Logo-vector.svg" height="50" width="210"alt="UPI" /></a>
+<a href="https://raw.githubusercontent.com/albtronics/UPI/main/UPI.png"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/UPI-Logo-vector.svg" height="50" width="210"alt="UPI" /></a>
 
 
 
