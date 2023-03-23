@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albtronics&label=Profile%20views&color=0e75b6&style=flat" alt="albtronics" /> </p>
 
-- 🔭 I’m currently working as a **Digital Design Engineer** at  [<img src="https://irfmw.com/wp-content/uploads/2022/08/logo-165x96.png" rel="noopener noreferrer" width="85">](http://www.irfmw.com/)
+- 🔭 I’m currently working as a **Digital Design Engineer** at  [<img src="https://irfmw.com/wp-content/uploads/2022/08/logo-165x96.png" width="85">](http://www.irfmw.com/)
 - 🌱 I’m currently learning **Blender, FPGA Programming, Solidworks**
 - 💬 Ask me about **PCB Designing, Editing, Ethical Hacking**
 - 📫 How to reach me **albinjoseph3@gmail.com**
