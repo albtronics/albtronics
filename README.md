@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/albtronics/UPI/main/GitHub_Typewriter_Title.gif" alt="GitHub_Typewriter_Title">
-<h3 align="center">An Electronics and Communication Engineering, tech enthusiast student who always loves to try out new things.</h3>
+<h3 align="center">An Electronics and Communication Engineering, tech enthusiast graduate who always loves to try out new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albtronics&label=Profile%20views&color=0e75b6&style=flat" alt="albtronics" /> </p>
 
-- 🔭 I’m currently working as an Intern at  [<img src="http://www.irfmw.com/assets/img/logo.png" width="90">](http://www.irfmw.com/)
+- 🔭 I’m currently working as a Digital Design Engineer at  [<img src="http://www.irfmw.com/assets/img/logo.png" width="90">](http://www.irfmw.com/)
 - 🌱 I’m currently learning **Blender, FPGA Programming, Solidworks**
 - 💬 Ask me about **PCB Designing, Editing, Ethical Hacking**
 - 📫 How to reach me **albinjoseph3@gmail.com**
