@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albtronics&label=Profile%20views&color=0e75b6&style=flat" alt="albtronics" /> </p>
 
 - 🔭 I’m currently working as a **Assistant Manager** at  [<img src="https://www.rnmicrowave.com/images/logo/logo.png" width="85">](https://www.rnmicrowave.com/)
-- 🌱 I’m currently learning **Blender, FPGA Programming, Solidworks**
-- 💬 Ask me about **PCB Designing, Editing, Ethical Hacking**
+- 🌱 I’m currently learning **Blender, Verilog, Solidworks**
+- 💬 Ask me about **Circuit Designing, Editing, Ethical Hacking**
 - 📫 How to reach me **albinjoseph3@gmail.com**
 
 
