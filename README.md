@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albtronics&label=Profile%20views&color=0e75b6&style=flat" alt="albtronics" /> </p>
 
-- 🔭 I’m currently working as a **Digital Design Engineer** at  [<img src="https://irfmw.com/wp-content/uploads/2022/08/logo-165x96.png" width="85">](http://www.irfmw.com/)
+- 🔭 I’m currently working as a **Assistant Manager** at  [<img src="https://www.rnmicrowave.com/images/logo/logo.png" width="85">](https://www.rnmicrowave.com/)
 - 🌱 I’m currently learning **Blender, FPGA Programming, Solidworks**
 - 💬 Ask me about **PCB Designing, Editing, Ethical Hacking**
 - 📫 How to reach me **albinjoseph3@gmail.com**
@@ -24,7 +24,7 @@
 <a href="https://www.researchgate.net/profile/Albin-Joseph-Cr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="albinjosephcr" height="30" width="40" /></a>
 <a href="https://twitter.com/albinjosephcr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="albinjosephcr1" height="30" width="40" /></a>
 <a href="https://fb.com/albin.joseph.5243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="albin.joseph.5243" height="30" width="40" /></a>
-<a href="https://instagram.com/____t_h_e___a_l_b_t_r_o_n____/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____t_h_e___a_l_b_t_r_o_n____/" height="30" width="40" /></a>
+<a href="https://instagram.com/albinjosephcr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____t_h_e___a_l_b_t_r_o_n____/" height="30" width="40" /></a>
 </p>
 
 
